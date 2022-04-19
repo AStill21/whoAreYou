@@ -31,7 +31,7 @@ _This is yet another online survey about pairing the user with their perfect cod
 
 * _Pictures on idex are not propperly sized._
 * _some links aren't asthetically pleasing._
-* _trying to apply desired color to background after survey is submitted._
+* _trying to apply desired color to background after survey is submitted does not work._
 
 ## License
 ### MIT
