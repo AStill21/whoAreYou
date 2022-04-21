@@ -10,7 +10,7 @@ $(document).ready(function() {
     const animalsInput = $("#animals").val();
     const  gemInput = $("#gem").val();
 
-    if (zodiacInput === #aries
+    if (zodiacInput === "aries" && drinkInput==='drink'[1]
 
   });
 });
